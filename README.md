@@ -1,3 +1,4 @@
+![WhatsApp Image 2021-05-31 at 15 53 30](https://user-images.githubusercontent.com/78488900/120231845-a5bc6600-c228-11eb-8a9d-d105d64248a8.jpeg)
 <h1 align = "center"> Olá 👋, eu sou Luiz Putinatti </h1>
 <h3 align = "center"> Estudante de Engenharia de Computação e Desenvolvimento de Software </h3>
 <div align = "center">
