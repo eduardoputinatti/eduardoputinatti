@@ -22,27 +22,32 @@
  <h3> Luiz por Luiz: </h3>
 <p align="center">Um apaixonado por tecnologias e pessoas :grin:</p>
 <p align="center">Morador do interior Paulista, amante de futebol :soccer:, cachorros :dog: e empenhado nos estudos :computer: :muscle:, gosto de inovar e aprender coisas novas, já fui ajudante de pedreiro, coordenador de Qualidade, empreendedor e agora um futuro Desenvolvedor. </p>
- 
-<h3> Meus Interesses pessoais: </h3>
-<p>:computer: Futuro Engenheiro de Software
-<p>:musical_note: Apaixonado por música</p>
-<p>:left_speech_bubble: Conversar é sempre um prazer</p>
-<p>:dog2: Pai de 2 Dobermans</p>
-<p>:clapper: Viciado em filmes de terror</p>
-<p>💟 Melhores momentos são com a familia</p>
-  
-<h3> Linguagens e ferramentas: </h3>
-<div align="left">
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ <div display="block">
+ <span width="400">
+  <h3> Meus Interesses pessoais: </h3>
+   <img align="right" src="https://user-images.githubusercontent.com/78488900/120404286-6b33f580-c31c-11eb-9636-2fdf62d6f9ef.gif" width="400" >
+  :computer: Futuro Engenheiro de Software
+  :musical_note: Apaixonado por música</p>
+  :left_speech_bubble: Conversar é sempre um prazer</p>
+  :dog2: Pai de 2 Dobermans</p>
+  :clapper: Viciado em filmes de terror</p>
+  💟 Melhores momentos são com a familia</p>
+   
+
+  <h3> Linguagens e ferramentas: </h3>
+  <div align="left">
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  </div>
+  <h3> Meu querido Portfólio: </h3>
+  <p>:construction_worker_man:...em breve...</p>
+</span>
 </div>
-<h3> Meu querido Portfólio: </h3>
-<p>:construction_worker_man:...em breve...</p>
 <br>
 <br>
 
