@@ -26,7 +26,7 @@
  <span width="400">
   <h3> Meus Interesses pessoais: </h3>
    <img align="right" src="https://user-images.githubusercontent.com/78488900/120404286-6b33f580-c31c-11eb-9636-2fdf62d6f9ef.gif" width="400" >
-  :computer: Futuro Engenheiro de Software
+  :computer: Futuro Engenheiro de Software</p>
   :musical_note: Apaixonado por música</p>
   :left_speech_bubble: Conversar é sempre um prazer</p>
   :dog2: Pai de 2 Dobermans</p>
