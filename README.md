@@ -18,11 +18,11 @@
 </a>
 </div>
  <br>
- <h3> Luiz por Luiz: </h3>
+<!--  <h3> Luiz por Luiz: </h3>
 <p align="center">Um apaixonado por tecnologias e pessoas :grin:</p>
 <p align="center">Morador do interior Paulista, amante de futebol :soccer:, cachorros :dog: e empenhado nos estudos :computer: :muscle:, gosto de inovar e aprender coisas novas, já fui ajudante de pedreiro, coordenador de Qualidade, empreendedor e agora um futuro Desenvolvedor. </p>
  <div display="block">
- <span width="400">
+ <span width="400"> -->
   <h3> Meus Interesses pessoais: </h3>
    <img align="right" src="https://user-images.githubusercontent.com/78488900/120404286-6b33f580-c31c-11eb-9636-2fdf62d6f9ef.gif" width="400" >
   :computer: Futuro Engenheiro de Software</p>
