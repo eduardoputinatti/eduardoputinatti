@@ -1,4 +1,4 @@
-<h1 align = "center"> Hello 👋, eu sou Luiz Putinatti </h1>
+<h1 align = "center"> Hello 👋, I am Luiz Putinatti </h1>
 <h3 align = "center"> Student of Computer Engineering and Software Development </h3>
 <div align = "center">
 <a target="_blank" href="https://www.linkedin.com/in/luizputinatti/">
